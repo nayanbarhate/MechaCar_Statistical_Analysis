@@ -16,7 +16,7 @@ Our dataset contains mpg test results for 50 prototype MechaCars. The MechaCar p
 
   * A summary of the linear regression can be displayed to determine the quality of the dataset. In this distribution of the residuals, the dataset fits in with the normal parameters, where the absolute value of the min and max are comparable |-19.47|~|18.58| and the median -.07 is close to zero.
   
-  ![Summary of Linear Regression](https://github.com/nayanbarhate/MechaCar_Statistical_Analysis/blob/main/Images/summary_lm-del1.png)
+  ![Summary of Linear Regression](https://github.com/nayanbarhate/MechaCar_Statistical_Analysis/blob/main/Images/summary_lm_del1.png)
   
 ### 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
